@@ -10,5 +10,5 @@ Project uses MongoDB Atlas database. Setup database cluster, user and provide co
 
 #### How to use
 
-1. Post link to the form\
-2. [this_project_url]/api/shorturl/<shorturl>
+1. Post link to the form
+2. [project_url]/api/shorturl/[shorturl]
